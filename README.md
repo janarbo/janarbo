@@ -4,7 +4,7 @@
 - 📫 How to reach me **janarboke@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">https://www.linkedin.com/in/janar-bokeyhan/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
