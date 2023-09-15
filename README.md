@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Janar</h1>
-<h3 align="center">A passionate software engineer from Los Angeles.</h3>
+<h3 align="center">A passionate Full-stack sofware engineer from Los Angeles.</h3>
 
 - 📫 How to reach me **janarboke@gmail.com**
 
